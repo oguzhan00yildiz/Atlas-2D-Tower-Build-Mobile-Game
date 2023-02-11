@@ -5,3 +5,5 @@ This project made in 2022. It is an amateur project.
 # How to launch the game
 For best experience
 Choose 1920x1080 Portrait mode
+
+![Atlaspic](https://user-images.githubusercontent.com/95942385/218268329-e4fd934c-20a5-412b-b142-763d87a18c32.png)
